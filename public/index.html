@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Server Control Panel</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+</head>
+
+<body>
+    <div class="container mt-5">
+        <h1 class="mb-4">Coriolis Server Control Panel</h1>
+
+        <!-- Server IP and Port -->
+        <div class="form-group row">
+            <label for="serverIp" class="col-sm-2 col-form-label">Server IP:</label>
+            <div class="col-sm-4">
+                <input type="text" class="form-control" id="serverIp" value="localhost" />
+            </div>
+            <label for="serverPort" class="col-sm-2 col-form-label">Port:</label>
+            <div class="col-sm-4">
+                <input type="number" class="form-control" id="serverPort" value="5000" />
+            </div>
+        </div>
+
+        <!-- Session Name -->
+        <div class="form-group row">
+            <label for="sessionName" class="col-sm-2 col-form-label">Session Name:</label>
+            <div class="col-sm-8">
+                <input type="text" class="form-control" id="sessionName" value="session1" />
+            </div>
+            <div class="col-sm-2">
+                <button id="setSessionNameBtn" class="btn btn-primary">Set Session Name</button>
+            </div>
+        </div>
+
+        <!-- Controls -->
+        <div class="form-group">
+            <button id="startBtn" class="btn btn-success">Start Recording</button>
+            <button id="stopBtn" class="btn btn-danger">Stop Recording</button>
+        </div>
+
+        <!-- Server Status -->
+        <div class="card mb-4">
+            <div class="card-header">Server Status</div>
+            <div class="card-body">
+                <p id="status">Fetching status...</p>
+                <p>Current File: <span id="currentFile">None</span></p>
+            </div>
+        </div>
+
+        <!-- Data File Selection -->
+        <div class="form-group row mt-4">
+            <label for="dataFileSelect" class="col-sm-2 col-form-label">Data File:</label>
+            <div class="col-sm-6">
+                <select id="dataFileSelect" class="form-control">
+                    <option value="">-- Select a data file --</option>
+                </select>
+            </div>
+            <div class="col-sm-2">
+                <button id="loadDataBtn" class="btn btn-secondary">Load Data</button>
+            </div>
+            <div class="col-sm-2">
+                <button id="clearDataBtn" class="btn btn-warning">Clear Data</button>
+            </div>
+        </div>
+        <!-- Time Window Selection -->
+        <div class="form-group">
+            <label for="timeWindowSelect">Select Time Window (seconds):</label>
+            <select class="form-control" id="timeWindowSelect">
+                <option value="10">10 seconds</option>
+                <option value="20" selected>20 seconds</option>
+                <option value="30">30 seconds</option>
+                <option value="40">40 seconds</option>
+                <option value="all">All</option>
+            </select>
+        </div>
+        <!-- Reset Zoom/Pan Button -->
+        <div class="form-group">
+            <button id="resetZoomBtn" class="btn btn-secondary">Reset Zoom/Pan</button>
+        </div>
+        <!-- Motor Charts Container -->
+        <div id="motorChartsContainer" class="mt-4">
+            <!-- Motor charts will be added here dynamically -->
+        </div>
+        <!-- Gyro Data Charts -->
+        <div class="card">
+            <div class="card-header">GYRO Data - X Axis</div>
+            <div class="card-body">
+                <canvas id="gyroChartX" width="400" height="200"></canvas>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header">GYRO Data - Y Axis</div>
+            <div class="card-body">
+                <canvas id="gyroChartY" width="400" height="200"></canvas>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header">GYRO Data - Z Axis</div>
+            <div class="card-body">
+                <canvas id="gyroChartZ" width="400" height="200"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <!-- Chart.js Zoom Plugin -->
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom@2.0.1"></script>
+    <!-- Include date-fns -->
+    <script src="https://cdn.jsdelivr.net/npm/date-fns@2.29.3/build/date-fns.min.js"></script>
+    
+    <!-- Include the Chart.js adapter for date-fns -->
+    <script
+        src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@2.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <!-- Your script -->
+    <script src="js/graphFunctions.js"></script>
+    <script src="js/serverInteraction.js"></script>
+    <script src="js/eventHandlers.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>

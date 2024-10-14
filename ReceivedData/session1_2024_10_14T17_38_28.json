@@ -1,0 +1,4856 @@
+[
+  {
+    "timestamp": 1728927505000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.246765,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927505_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927506000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 4.360107,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.490881,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927506_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927507000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.720899,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927507_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927509000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.24458,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927509_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927510000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.578931,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927510_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927511000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 12.81958,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.301379,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927511_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927512000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.301953,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927512_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927513000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 0.984119,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927513_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927515000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 0.051965,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927515_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927516000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.204065,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927516_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927517000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.355933,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927517_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927518000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 9.596924,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.427637,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927518_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927519000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.734998,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927519_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927520000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.045984,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927520_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927522000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.023022,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927522_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927523000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 14.43091,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.384363,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927523_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927524000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 3.151611,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.014966,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927524_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927525000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.005701,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927525_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927526000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.108423,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927526_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927527000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 0.536169,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927527_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927529000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.441162,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927529_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927530000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 13.73511,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.999255,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927530_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927531000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.899988,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927531_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927532000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.512695,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927532_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927533000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.947351,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927533_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927534000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.25073,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.554187,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927534_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927536000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 4.982666,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.698169,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927536_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927537000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.004663,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927537_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927538000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.586352,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927538_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927539000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.882031,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 1.649414,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927539_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927540000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.918518,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927540_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927541000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.326587,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927541_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927543000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.202112,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.24414,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927543_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927544000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.395813,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 8.644043,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927544_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927545000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.992236,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927545_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927546000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.514246,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927546_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927547000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.365259,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927547_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927549000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 12.08716,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.538477,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927549_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927550000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.904419,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927550_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927551000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.509412,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927551_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927552000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.848596,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 9.083496,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927552_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927553000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.829492,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927553_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927554000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.970484,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927554_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927556000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.992639,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927556_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927557000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.530994,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 5.384766,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927557_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927558000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 0.928528,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -0.584472,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927558_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927559000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.418201,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927559_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927560000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.047595,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927560_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927561000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.207752,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927561_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927563000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.952588,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927563_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927564000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.822876,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927564_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927565000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 4.396729,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.546301,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927565_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927566000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.406519,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927566_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927567000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.923523,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927567_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927568000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.684875,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927568_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927570000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.530823,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927570_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927571000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.632336,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927571_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927572000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.953161,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927572_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927573000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.15354,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 6.227051,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927573_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927574000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.684473,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 1.539551,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927574_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927576000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.354151,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927576_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927577000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.221619,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927577_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927578000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.089319,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927578_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927579000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.928015,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927579_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927580000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.893774,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927580_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927581000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 8.498291,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.814184,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927581_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927583000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.358984,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927583_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927584000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.127759,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927584_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927585000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.407727,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927585_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927586000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.359216,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927586_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927587000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.886694,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927587_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927588000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.068372,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927588_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927590000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.685449,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927590_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927591000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.102551,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927591_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927592000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 16.44507,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.784949,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927592_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927593000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.982166,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927593_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927594000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.450659,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927594_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927595000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 10.80542,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.20752,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927595_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927597000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.817004,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927597_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927598000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.794617,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927598_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927599000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.700757,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 6.336915,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927599_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927600000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.625256,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 10.36523,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927600_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927601000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.824255,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927601_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927602000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.330615,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927602_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927604000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.217016,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 9.632813,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927604_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927605000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.911267,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 5.641114,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927605_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927606000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 0.973645,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927606_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927607000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.124939,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927607_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927608000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.454053,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927608_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927609000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.279455,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927609_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927611000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.570703,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927611_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927612000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 4.048462,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927612_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927613000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 13.18579,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.05404,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927613_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927614000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.889685,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927614_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927615000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.406921,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 9.303223,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927615_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927617000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.883875,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 3.297364,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927617_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927618000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.482825,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927618_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927619000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.333606,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927619_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927620000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.376135,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927620_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927621000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.238367,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927621_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927622000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 14.72388,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.703638,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927622_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927624000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.570642,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927624_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927625000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.686658,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927625_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927626000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.999255,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 4.103028,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927626_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927627000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.404907,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927627_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927628000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.838757,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927628_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927629000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.047192,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 8.314453,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927629_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927631000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.728784,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 2.564942,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927631_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927632000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.552747,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927632_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927633000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 4.213623,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.000061,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927633_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927634000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.745935,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927634_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927635000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 4.055713,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927635_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927637000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 11.68433,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.428101,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927637_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927638000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.442774,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927638_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927639000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.066931,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927639_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927640000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.278418,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 9.010254,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927640_camera.jpg"
+      }
+    }
+  },
+  {
+    "timestamp": 1728927641000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.918921,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927641_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927642000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.572315,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927642_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927644000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.020435,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 0.587403,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927644_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927645000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.807104,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927645_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927646000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 3.920654,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.068945,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927646_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927647000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.228296,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927647_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": 9.629148,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927648000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.818042,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927648_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": 9.629148,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927649000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.516724,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927649_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": 37.93725,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927651000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 5.028553,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927651_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": 37.93725,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927652000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 8.315186,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.270593,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927652_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": 37.93725,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927653000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.721301,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 6.922852,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927653_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927654000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.293555,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927654_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": 5.527586,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927655000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.820862,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927655_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": 5.527586,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927656000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.957996,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 1.063477,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927656_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927658000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.04115,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927658_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927659000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.651672,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927659_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927660000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.843823,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927660_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": 37.93725,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927661000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 17.28735,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 4.076257,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927661_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": 37.93725,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927662000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": 1.467041,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.159412,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927662_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": 37.93725,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927663000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.940845,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927663_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": 37.93725,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927665000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.51488,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927665_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": 37.93725,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927666000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.558618,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927666_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927667000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 4.139099,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927667_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927668000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.130981,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 2.821289,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927668_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927669000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 2.690112,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927669_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927671000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 3.471606,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 11.61035,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927671_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      }
+    }
+  },
+  {
+    "timestamp": 1728927672000,
+    "sensors": {
+      "MOTOR1_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      },
+      "MOTOR1_V": {
+        "value": 1.243945,
+        "min": -1,
+        "max": 25
+      },
+      "MOTOR1_T": {
+        "value": -3,
+        "min": 0,
+        "max": 40
+      },
+      "MOTOR1_RPM": {
+        "value": 0,
+        "min": 0,
+        "max": 10000
+      },
+      "MOTOR2_I": {
+        "value": 0.550782,
+        "min": -1,
+        "max": 100
+      },
+      "CAM": {
+        "value": "1728927672_camera.jpg"
+      },
+      "MOTOR5_I": {
+        "value": -1,
+        "min": -1,
+        "max": 100
+      }
+    }
+  }
+]
